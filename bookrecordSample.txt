@@ -1,0 +1,10 @@
+101 C_Programming Dennis_Ritchie Pearson 15 450 6750.000000
+102 Data_Structures Mark_Allen McGrawHill 10 550 5500.000000
+103 Java_Programming Herbert_Schildt OraclePress 12 650 7800.000000
+104 Python_Basics Eric_Matthes NoStarch 20 700 14000.000000
+105 DBMS Korth McGrawHill 8 800 6400.000000
+106 Operating_System Galvin Wiley 10 900 9000.000000
+107 Computer_Networks Forouzan McGrawHill 7 850 5950.000000
+108 Web_Development Jon_Duckett Wiley 18 600 10800.000000
+109 Artificial_Intelligence Stuart_Russell Pearson 5 1200 6000.000000
+110 Software_Engineering Pressman McGrawHill 14 750 10500.000000
