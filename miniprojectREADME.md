@@ -177,6 +177,24 @@ This project demonstrates:
 
 ---
 
+## Sample Files
+
+This repository includes sample data files:
+
+- `adminsample.txt` – Sample admin credentials
+- `usersample.txt` – Sample customer credentials
+- `bookrecordsample.txt` – Sample book records
+
+Before running the project, rename them as:
+
+adminsample.txt  →  admin.txt
+
+usersample.txt   →  user.txt
+
+bookrecordsample.txt → bookrecord.txt
+
+---
+
 ## ⭐ If you like this project
 
 Please give this repository a ⭐ on GitHub.
